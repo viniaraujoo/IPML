@@ -13,7 +13,7 @@ import sklearn
 from skimage.segmentation import mark_boundaries
 
 
-def start_lime(model_predict,test,train=None,feature_names=None,class_names=None,idx_test=None,num_features=6,top_labels=5,hide_color=0,num_samples=1000):
+def impl(model_predict,test,train=None,feature_names=None,class_names=None,idx_test=None,num_features=6,top_labels=5,hide_color=0,num_samples=1000):
       
       
     if(type(test) == bytes):
