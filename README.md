@@ -25,6 +25,11 @@ python setup.py install
 import impl.impl as im
 ```
 
++ [Images - basic](https://github.com/viniaraujoo/IPML/blob/master/notebooks/exemple_imagem_lmpl.ipynb)
++ [Tabular-basic](https://github.com/viniaraujoo/IPML/blob/master/notebooks/exemple_tabular_impl.ipynb)
++ [Text-basic](https://github.com/viniaraujoo/IPML/blob/master/notebooks/exemple_text_impl.ipynb)
+
+
 ## Versioning
 
 For the versions available, see the [tags on this repository](https://github.com/viniaraujoo/IPML/tags). 
